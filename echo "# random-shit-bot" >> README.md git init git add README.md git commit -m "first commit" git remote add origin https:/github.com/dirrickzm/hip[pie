@@ -1,0 +1,6 @@
+echo "# random-shit-bot" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://www.youtube.com/watch?v=NMMFWZUNS2Q
+git push -u origin master
